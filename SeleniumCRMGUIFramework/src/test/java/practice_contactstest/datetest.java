@@ -16,6 +16,8 @@ public class datetest {
 	   cal.add(Calendar.DAY_OF_MONTH, 30);
 	   String datereq=sim.format(cal.getTime());
 	   System.out.println(datereq);
+	   
+	   
 	}
 
 }
